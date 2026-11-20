@@ -1,0 +1,6 @@
+
+{
+  "rewrites": [
+    { "source": "/", "destination": "/project/html/home-bootstrap.html" }
+  ]
+}
